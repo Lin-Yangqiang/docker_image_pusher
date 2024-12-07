@@ -1,6 +1,5 @@
 nginx
 #支持私库
-lamho/centos7
 openjdk:11
 vitamojo/mysql5
 python
